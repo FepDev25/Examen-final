@@ -16,8 +16,8 @@ Este proyecto implementa un sistema de mensajes distribuido con los siguientes c
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-directorio>
+git clone https://github.com/FepDev25/Examen-final
+cd Examen-final
 ```
 
 2. Iniciar los servicios:
@@ -25,9 +25,15 @@ cd <nombre-del-directorio>
 docker-compose up
 ```
 
+o 
+
+```bash
+docker compose up
+```
+
 ## Acceso a la aplicación
 
-- Frontend: http://localhost
+- Frontend: http://localhost:4200
 - WebSocket: ws://localhost:8080
 - Servidor Java: localhost:12345
 
