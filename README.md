@@ -1,5 +1,7 @@
 # Examen Interciclo - Sistema de Mensajes
 
+> ⚠️ Nota importante: El contenido del proyecto estaba completo antes de la fecha límite, pero `angular-app` fue tratado por Git como un submódulo y no se reflejaba correctamente en GitHub. Este inconveniente ha sido corregido y el proyecto está ahora completamente visible. Se adjunta evidencia en commits previos.
+
 Este proyecto implementa un sistema de mensajes distribuido con los siguientes componentes:
 
 - Frontend Angular
